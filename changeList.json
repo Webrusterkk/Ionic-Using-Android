@@ -1,0 +1,16 @@
+{
+  "changedFilesIos": [
+    "www\\index.html"
+  ],
+  "deletedFilesIos": [],
+  "addedPluginsIos": [],
+  "deletedPluginsIos": [],
+  "changedFiles": [
+    "www\\scripts\\services.js",
+    "www\\scripts\\controllers.js",
+    "www\\index.html"
+  ],
+  "deletedFiles": [],
+  "addedPlugins": [],
+  "deletedPlugins": []
+}
