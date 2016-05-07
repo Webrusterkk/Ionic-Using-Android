@@ -155,7 +155,9 @@ angular.module('starter', ['ionic','ngCordova', 'starter.controllers', 'starter.
 
 .run(function ($ionicPlatform, $rootScope, $ionicLoading,$timeout,$ionicPopup) {
     $ionicPlatform.ready(function () {
-      
+        hockeyapp.start(null, null, "ab9ef220ed4444f7a9d5a908b2ace6ad");
+        //hockeyapp.forceCrash();
+       
         if (window.cordova && window.cordova.plugins && window.cordova.plugins.Keyboard) {
             cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
             cordova.plugins.Keyboard.disableScroll(true);

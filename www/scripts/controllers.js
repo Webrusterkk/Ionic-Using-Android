@@ -576,7 +576,9 @@ angular.module('starter.controllers', ['ngCordova'])
         }
     }
 
-
+    $scope.Isfeedback = function () {
+        hockeyapp.feedback();
+    }
 
 
     $scope.stopPlay = function () {
