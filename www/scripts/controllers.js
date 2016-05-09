@@ -484,6 +484,7 @@ angular.module('starter.controllers', ['ngCordova'])
 
                     }
                     else {
+                        Englishmedia.setVolume(0, 0);
                         Telugumedia.setVolume(1, 1);
                     }
 

@@ -1,7 +1,7 @@
 {
      "android": {
       "release": {
-        "keystore": "C:\\AndroidAPK-release-key.keystore",
+        "keystore": "C:\\MasterEK.keystore",
         "storePassword": "Masterek11",
         "alias": "kishore",
         "password": "Masterek11",
